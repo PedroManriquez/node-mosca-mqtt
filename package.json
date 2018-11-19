@@ -1,0 +1,29 @@
+{
+  "name": "mqtt-mosca-node",
+  "version": "1.0.0",
+  "description": "This is an example of mqtt broker",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroManriquez/node-mosca-mqtt.git"
+  },
+  "keywords": [
+    "node",
+    "mosca",
+    "mqtt",
+    "broker",
+    "microservices"
+  ],
+  "author": "PedroManriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroManriquez/node-mosca-mqtt/issues"
+  },
+  "homepage": "https://github.com/PedroManriquez/node-mosca-mqtt#readme",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  }
+}
