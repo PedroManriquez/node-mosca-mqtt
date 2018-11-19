@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/PedroManriquez/node-mosca-mqtt#readme",
   "dependencies": {
-    "mosca": "^2.8.3"
+    "mosca": "^2.8.3",
+    "mqtt": "^2.18.8"
   }
 }
